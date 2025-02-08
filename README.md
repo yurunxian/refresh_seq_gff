@@ -17,4 +17,4 @@ This script is designed for integrating SNP and INDEL modifications into existin
     -h                  Print this page.
 
 # Example
-perl refresh_seq_gff.pl -f example/sequence.fasta -g example/gene.gff -m example/modification.txt -o example/summary.txt -fm example/modifed_sequence.fasta -gm example/modified_gene.gff > example/log.txt
+    perl refresh_seq_gff.pl -f example/sequence.fasta -g example/gene.gff -m example/modification.txt -o example/summary.txt -fm example/modifed_sequence.fasta -gm example/modified_gene.gff > example/log.txt
