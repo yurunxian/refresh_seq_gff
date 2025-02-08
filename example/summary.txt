@@ -1,0 +1,6 @@
+Chr	ID	Original_pos	Modified_pos	Length change (bp)	Note
+chr1	gene_4:cds:1	542..664	542..667	gene_4:cds:1	-3
+chr1	gene_5:cds:1	566..718	566..721	gene_5:cds:1	-3
+chr1	gene_6:cds:1	692..792	695..793	gene_6:cds:1	2	Frameshift
+chr1	gene_7:cds:1	719..825	722..826	gene_7:cds:1	2	Frameshift
+chr1	gene_8:cds:1	849..1001	850..999	gene_8:cds:1	3

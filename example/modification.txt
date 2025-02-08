@@ -1,0 +1,7 @@
+chr1	15	TCG	T
+chr1	202	G	GAC
+chr1	597	GCGC	G
+chr1	763	A	AAA
+chr1	850	G	ATGC
+
+

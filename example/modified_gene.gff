@@ -1,0 +1,41 @@
+#gff3
+###
+chr1	gff	gene	75	197	.	-	.	ID=gene_1;
+chr1	gff	mRNA	75	197	.	-	.	ID=gene_1;
+chr1	gff	exon	75	197	.	-	.	ID=gene_1:exon:1;
+chr1	gff	CDS	75	197	.	-	.	ID=gene_1:cds:1;
+###
+chr1	gff	gene	211	318	.	+	.	ID=gene_2;
+chr1	gff	mRNA	211	318	.	+	.	ID=gene_2;
+chr1	gff	exon	211	318	.	+	.	ID=gene_2:exon:1;
+chr1	gff	CDS	211	318	.	+	.	ID=gene_2:cds:1;
+###
+chr1	gff	gene	303	467	.	-	.	ID=gene_3;
+chr1	gff	mRNA	303	467	.	-	.	ID=gene_3;
+chr1	gff	exon	303	467	.	-	.	ID=gene_3:exon:1;
+chr1	gff	CDS	303	467	.	-	.	ID=gene_3:cds:1;
+###
+chr1	gff	gene	542	664	.	-	.	ID=gene_4;
+chr1	gff	mRNA	542	664	.	-	.	ID=gene_4;
+chr1	gff	exon	542	664	.	-	.	ID=gene_4:exon:1;
+chr1	gff	CDS	542	664	.	-	.	ID=gene_4:cds:1;
+###
+chr1	gff	gene	566	718	.	+	.	ID=gene_5;
+chr1	gff	mRNA	566	718	.	+	.	ID=gene_5;
+chr1	gff	exon	566	718	.	+	.	ID=gene_5:exon:1;
+chr1	gff	CDS	566	718	.	+	.	ID=gene_5:cds:1;
+###
+chr1	gff	gene	692	792	.	-	.	ID=gene_6;
+chr1	gff	mRNA	692	792	.	-	.	ID=gene_6;
+chr1	gff	exon	692	792	.	-	.	ID=gene_6:exon:1;
+chr1	gff	CDS	692	792	.	-	.	ID=gene_6:cds:1;
+###
+chr1	gff	gene	719	825	.	+	.	ID=gene_7;
+chr1	gff	mRNA	719	825	.	+	.	ID=gene_7;
+chr1	gff	exon	719	825	.	+	.	ID=gene_7:exon:1;
+chr1	gff	CDS	719	825	.	+	.	ID=gene_7:cds:1;
+###
+chr1	gff	gene	849	1001	.	-	.	ID=gene_8;
+chr1	gff	mRNA	849	1001	.	-	.	ID=gene_8;
+chr1	gff	exon	849	1001	.	-	.	ID=gene_8:exon:1;
+chr1	gff	CDS	849	1001	.	-	.	ID=gene_8:cds:1;
